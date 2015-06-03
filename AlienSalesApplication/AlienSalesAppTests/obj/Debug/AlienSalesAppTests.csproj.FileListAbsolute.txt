@@ -1,0 +1,7 @@
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesAppTests\bin\Debug\AlienSalesAppTests.dll
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesAppTests\bin\Debug\AlienSalesAppTests.pdb
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesAppTests\bin\Debug\AlienSalesApp.exe
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesAppTests\bin\Debug\AlienSalesApp.pdb
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesAppTests\obj\Debug\AlienSalesAppTests.csprojResolveAssemblyReference.cache
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesAppTests\obj\Debug\AlienSalesAppTests.dll
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesAppTests\obj\Debug\AlienSalesAppTests.pdb

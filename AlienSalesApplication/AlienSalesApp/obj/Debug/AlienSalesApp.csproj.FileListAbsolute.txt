@@ -1,0 +1,10 @@
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesApp\bin\Debug\AlienSalesApp.exe.config
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesApp\bin\Debug\AlienSalesApp.exe
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesApp\bin\Debug\AlienSalesApp.pdb
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesApp\obj\Debug\AlienSalesApp.alienSalesApplication.resources
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesApp\obj\Debug\AlienSalesApp.helpWindow.resources
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesApp\obj\Debug\AlienSalesApp.Properties.Resources.resources
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesApp\obj\Debug\AlienSalesApp.csproj.GenerateResource.Cache
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesApp\obj\Debug\AlienSalesApp.exe
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesApp\obj\Debug\AlienSalesApp.pdb
+C:\Users\limt\documents\visual studio 2013\Projects\AlienSalesApp\AlienSalesApp\obj\Debug\AlienSalesApp.csprojResolveAssemblyReference.cache
