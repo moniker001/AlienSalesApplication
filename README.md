@@ -4,9 +4,7 @@
 
 Alien Sales Application allows a user to input a number of data sets, specifying the currency denominations and prices for different vendors, and returns the maximum profit that can be made for each data set. Alien Sales Application is a Windows application programmed in C# with Microsoft Visual Studio Express 2013.
 
-The source code can be found in [AlienSalesApp](https://github.com/moniker001/AlienSalesApplication/tree/master/AlienSalesApp/AlienSalesApp) and unit tests are located in [AlienSalesAppTests](https://github.com/moniker001/AlienSalesApplication/tree/master/AlienSalesApp/AlienSalesAppTests).
-
-The application executable `AlienSalesApp.exe` can be found [here](https://github.com/moniker001/AlienSalesApplication/tree/master/AlienSalesApp/AlienSalesApp/bin/Debug).
+The application executable `AlienSalesApp.exe` can be found [here](https://github.com/moniker001/AlienSalesApplication/tree/master/AlienSalesApplication/AlienSalesApp/bin/Debug).
 
 ## Input Format
 
