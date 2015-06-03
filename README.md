@@ -15,9 +15,9 @@ The application executable `AlienSalesApp.exe` can be found [here](https://githu
 |2 (per data set)|Denomination conversion constants|D-1 positive integers, where ith integer specifies number of notes of denomination i+1 equal to 1 note of denomination i|
 |Next N lines (per data set)|Price in terms of denominations|D non-negative integers, where ith specifies number of notes of denomination i|
 
-#### Example
+### Example
 
-Input:
+#### Input
 
 ```
 2
@@ -32,7 +32,7 @@ Input:
 1 10 0
 ```
 
-Output:
+#### Output
 
 ```
 Data Set 1:
